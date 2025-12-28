@@ -16,6 +16,7 @@ int main(void)
             { // columns
                 if (abs(i - r) <= k && abs(j - c) <= k)
                 {
+                    
                     count++;
                 }
             }
