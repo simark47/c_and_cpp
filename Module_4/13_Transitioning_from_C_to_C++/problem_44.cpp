@@ -1,0 +1,1 @@
+// https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1?utm_source=geeksforgeeks&utm_medium=potd+solutions+7nov&utm_campaign=potd+solutions
